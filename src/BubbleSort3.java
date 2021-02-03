@@ -5,7 +5,9 @@ public class BubbleSort3 {
 		// TODO Auto-generated method stub
 		System.out.println("Bubble Sort Begin");
 		int a = 30;
+		char ch = 40;
 		System.out.println(a);
+		System.out.println(ch); 
 		System.out.println("Bubble Sort Ends");
 	}
 
